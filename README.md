@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Ioannis Baraklilis (Γιάννης Μπαρακλιλής)
 - 📖 I’m studying computer science (4th year undergraduate) at Aristotle University of Thessaloniki,
 - 👀 I’m interested in Machine Learning and Data Science in genaral,
-- 🌱 I’m currently learning about Neural Networks, Knowledge Systems, Data Mining, Semantic Web and Algorithm design,
+- 🌱 I’m currently learning about Machine Learning, Neural Networks, Knowledge Systems, Data Mining, Semantic Web and Algorithm design,
 - 📫 You can reach me at imparakl@csd.auth.gr.
 
 <!---
