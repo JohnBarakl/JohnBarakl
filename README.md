@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Ioannis Baraklilis (Γιάννης Μπαρακλιλής)
-- 📖 I’m studying computer science (4th year undergraduate) at Aristotle University of Thessaloniki,
+- 📖 I’m a computer science graduate from Aristotle University of Thessaloniki, and I'm studying at the same department for my master's degree in Data and Web Science,
 - 👀 I’m interested in Machine Learning and Data Science in general,
 - 📫 You can reach me at imparakl@csd.auth.gr.
 
